@@ -1,0 +1,34 @@
+#main{
+    background-color: #DDFFDD;
+    color: #002200;
+    width: 900px;
+    margin: 0 auto;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px gray;
+    padding: 10px;}
+h1{
+    text-align: center;
+}
+h3{
+    padding: 15px;
+}
+ul{
+    font-size: larger;
+}
+ol{
+    list-style-type: none;
+}
+span{
+    display: flex;
+    justify-content: space-between;
+}
+#kep{
+    width: 250px;
+    padding: 25px;
+}
+#utolsokep{
+    text-align: center;
+}
+hr{
+    background-image: url(img\flower.png) repeat-x center;
+}
